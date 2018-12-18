@@ -39,6 +39,9 @@
   float:left;
 }
 
+.columns{
+  margin-top:10px;
+}
 .columns-2 .shadow{
   width:31.33%;
   float:left;
