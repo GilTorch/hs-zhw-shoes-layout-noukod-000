@@ -33,8 +33,7 @@
 }
 
 .columns-1:first-child{
-  /*width:66.66%;*/
-  display:none;
+  width:65.66
 }
 
 .columns-1:last-child{
