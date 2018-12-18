@@ -28,6 +28,14 @@
    -moz-column-count: 2; /* Firefox */
    column-count: 2;
    -webkit-columns: 66.66% 33%;
-    -moz-columns: 66.66% 33%;  
+    -moz-columns: 66.66% 33%;
     columns: 66.66% 33%;;
+}
+
+.columns-1:first-child{
+  width:66.66%;
+}
+
+.columns-1:last-child{
+  width:33.33%
 }
