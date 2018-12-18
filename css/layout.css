@@ -27,5 +27,7 @@
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
    -moz-column-count: 2; /* Firefox */
    column-count: 2;
+   -webkit-columns: 640px 320px; /* Chrome, Safari, Opera */
+    -moz-columns: 640px 320px; /* Firefox */
+    columns: 640px 320px;
 }
-
