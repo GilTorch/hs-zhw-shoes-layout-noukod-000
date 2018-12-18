@@ -23,7 +23,9 @@
 }
 
 /* Posititoning Classes */
-
+.columns{
+  height:100%;
+}
 
 .columns-1 .first{
   width:63.66%;
