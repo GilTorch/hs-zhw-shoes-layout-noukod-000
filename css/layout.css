@@ -27,7 +27,7 @@
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
    -moz-column-count: 2; /* Firefox */
    column-count: 2;
-   -webkit-columns: 66.66% 33%; /* Chrome, Safari, Opera */
-    -moz-columns: 66.66% 33%; /* Firefox */
-    columns: 666.66% 33%;;
+   -webkit-columns: 66.66% 33%;
+    -moz-columns: 66.66% 33%;  
+    columns: 66.66% 33%;;
 }
