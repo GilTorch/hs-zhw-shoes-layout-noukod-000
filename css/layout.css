@@ -23,16 +23,14 @@
 }
 
 /* Posititoning Classes */
-.columns-1{
-  -webkit-column-count: 2; /* Chrome, Safari, Opera */
-   -moz-column-count: 2; /* Firefox */
-   column-count: 2;
-}
+
 
 .columns-1 .first{
   width:66.66%;
+  float:left;
 }
 
 .columns-1 .second{
   width:33.33%;
+  float:left;
 }
